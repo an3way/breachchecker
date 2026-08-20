@@ -39,8 +39,8 @@ All are free, public endpoints that don't require an API key.
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/breach-checker.git
-cd breach-checker
+git clone https://github.com/an3way/breachchecker.git
+cd breachchecker
 pip install -r requirements.txt
 python breach_checker.py
 ```
